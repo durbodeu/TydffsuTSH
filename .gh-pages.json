@@ -13,8 +13,6 @@
     "new_name": "index.md"
   },
   "Changelog.md": {
-    "type": "page",
-    "replace_tables": null,
     "replace_links": {
       "wiki.md": "./wiki"
     },
